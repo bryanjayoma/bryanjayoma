@@ -18,5 +18,5 @@ I am currently working on various assignments and projects to enhance my skills 
 ## Contact
 Feel free to reach out to me for any collaboration or just to say hi!  
 - **GitHub:** [bryanjayoma](https://github.com/bryanjayoma)
-- **Gmail** [bryanjayoma@gmail.com]  
+- **Gmail** bryanjayoma@gmail.com  
 - **Instagram:** [@istrobryan](https://instagram.com/istrobryan)
