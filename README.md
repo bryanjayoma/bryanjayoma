@@ -1,16 +1,22 @@
-## Hi there 👋
+# Bryan Jayoma
 
-<!--
-**bryanjayoma/bryanjayoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hi! I'm Bryan Jayoma, a second-year computer science student pursuing a **Bachelor of Science in Computer Science**. I am eager to learn and develop my skills in various programming languages and software engineer.
 
-Here are some ideas to get you started:
+## Education
+- **2nd Year Bachelor of Science in Computer Science**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+- Not yet available
+
+## Skillsets
+- **Programming Languages:** Java, Python, JavaScript
+
+## Projects
+I am currently working on various assignments and projects to enhance my skills in software engineer and programming. Stay tuned for more updates!
+
+## Contact
+Feel free to reach out to me for any collaboration or just to say hi!  
+- **GitHub:** [bryanjayoma](https://github.com/bryanjayoma)
+- **Gmail** [bryanjayoma@gmail.com]  
+- **Instagram:** [@istrobryan](https://instagram.com/istrobryan)
