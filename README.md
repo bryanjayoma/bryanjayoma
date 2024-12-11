@@ -7,8 +7,9 @@ Hi! I'm Bryan Jayoma, a second-year computer science student pursuing a **Bachel
 - **2nd Year Bachelor of Science in Computer Science**
 
 ## Certifications
-- [https://courses.cognitiveclass.ai/certificates/d77459abe9244ae3970d6715e55c0c4d](https://courses.cognitiveclass.ai/certificates/d77459abe9244ae3970d6715e55c0c4d)
+- https://courses.cognitiveclass.ai/certificates/d77459abe9244ae3970d6715e55c0c4d
 - https://catalog-education.oracle.com/ords/certview/sharebadge?id=724F77F0D6D6974FE14CF1131C4C22DEF47296B46F7EAFE7656AD12E9080FE78
+- https://catalog-education.oracle.com/ords/certview/sharebadge?id=724F77F0D6D6974FE14CF1131C4C22DE86FA86A4003FDA1FF1EA3B8766F9556F
 
 ## Skillsets
 - **Programming Languages:** Java, Python, JavaScript
